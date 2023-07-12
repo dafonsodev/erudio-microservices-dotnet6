@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CJzT7zCiKiOsRNw60RiNk+wAvD53i6zEPWLPVlCEsJgdYfTEn8LFFfg5cbnv1BXK0OcgDNvRLdCjPyMzZhLw1Q==",
+  "dgSpecHash": "9lgxgPuQC5ijM4RcK575H+684/pqLrgjR2fcHcR7ESpjmqvthpUtGlO1SKW1/uXgAsZiTig+SUEE+UwcghhxSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel\\Projetos\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicroserviceonWebMicroservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
   "expectedPackageFiles": [
