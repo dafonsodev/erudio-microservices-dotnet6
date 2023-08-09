@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RtA9VsxnGimwuIhczLEVSnYKXt/MhRwPWjJYV/wFgFhlkYpMdfjoKZqExdo9GhAQDEX980ZbXBONdsh8IyC6/Q==",
+  "dgSpecHash": "l77HMMDvDsgkmqlcT3h4ohsQOqrmwV8XqkH6nJ2V+/gWzDy1546vwXxvBIgq5RPNE5S68ijUjAZyE6BlsnWUtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\Projetos\\erudio-microservices-dotnet6\\S11_AuthWithOauth2OpenIDIdentityServer\\GeekShopping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\Projetos\\erudio-microservices-dotnet6\\S12_AddingProductListingToHome\\GeekShopping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\duende.identityserver\\5.2.2\\duende.identityserver.5.2.2.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\duende.identityserver.aspnetidentity\\5.2.2\\duende.identityserver.aspnetidentity.5.2.2.nupkg.sha512",
